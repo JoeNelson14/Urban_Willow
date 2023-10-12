@@ -1,0 +1,19 @@
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  
+}
+
+.nav-link-container {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-link {
+  list-style-type: none;
+  cursor: pointer;
+}
